@@ -1,5 +1,5 @@
 #include <iostream>
 int function_1(){
-	std::cout << "function executing." << std::endl;
+	std::cout << "function executes.." << std::endl;
 	return 0;
 }
